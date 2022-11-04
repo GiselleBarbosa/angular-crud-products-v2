@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+.edit {
+  color: cornflowerblue;
+  margin-right: 15%;
+  font-size: 22px;
+}
+.delete {
+  color: rgb(237, 102, 100);
+  font-size: 22px;
+}
