@@ -1,3 +1,7 @@
+## Deploy
+[Page]{https://crud-curso-angular-9-cod3r.vercel.app/)
+Pendente a implementação da API - Banco de Dados disponível somente local. 
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
