@@ -9,6 +9,7 @@ import { Product } from './product.model';
 })
 export class ProductService {
 
+  // baseUrl = "https://api-myproducts-crud.herokuapp.com/products"
   baseUrl = "http://localhost:3000/products"
 
   constructor(

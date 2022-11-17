@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "name": "Geladeira Inox",
-      "price": "5000",
-      "id": 1
-    },
-    {
       "name": "TV 50 Polegadas",
       "price": "2999",
       "id": 2
@@ -14,6 +9,11 @@
       "name": "Lavadora de roupas 14 kg",
       "price": "2100",
       "id": 3
+    },
+    {
+      "name": "Relogio",
+      "price": "10",
+      "id": 4
     }
   ]
 }
