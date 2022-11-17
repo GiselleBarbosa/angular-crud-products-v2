@@ -9,7 +9,7 @@ import { Product } from './product.model';
 })
 export class ProductService {
 
-  baseUrl = "http://localhost:3000/products"
+  baseUrl = "https://api-myproducts-crud.herokuapp.com/products"
 
   constructor(
     private snackBar: MatSnackBar,
