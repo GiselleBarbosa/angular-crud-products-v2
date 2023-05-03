@@ -7,7 +7,7 @@
     "server": "json-server --watch ./backend/db.json",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "format": "npx prettier --check ."
+    "format": "npx prettier --write ."
   },
   "private": true,
   "dependencies": {
@@ -27,9 +27,10 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.7",
-    "@angular/cli": "~14.2.7",
+    "@angular-devkit/build-angular": "^15.2.7",
+    "@angular/cli": "~15.2.7",
     "@angular/compiler-cli": "^15.2.8",
+    "prettier": "2.8.8",
     "typescript": "~4.9.5"
   }
 }

@@ -2,26 +2,26 @@
 
 html,
 body {
-	height: 100%;
+  height: 100%;
 }
 body {
-	margin: 0;
-	font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 
 .red {
-	color: #e35e6b;
+  color: #e35e6b;
 }
 .v-middle {
-	vertical-align: middle;
+  vertical-align: middle;
 }
 
 .msg-success {
-	background-color: #28a745;
-	color: #fff;
+  background-color: #28a745;
+  color: #fff;
 }
 
 .msg-error {
-	background-color: #e35e6b;
-	color: #fff;
+  background-color: #e35e6b;
+  color: #fff;
 }

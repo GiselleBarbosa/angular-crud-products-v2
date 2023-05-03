@@ -1,19 +1,9 @@
 {
   "products": [
     {
-      "name": "TV 50 Polegadas",
-      "price": "2999",
-      "id": 2
-    },
-    {
-      "name": "Lavadora de roupas 14 kg",
-      "price": "2100",
-      "id": 3
-    },
-    {
-      "name": "Relogio",
-      "price": "10",
-      "id": 4
+      "name": "Playstation 5",
+      "price": "4500.00",
+      "id": 1
     }
   ]
 }
